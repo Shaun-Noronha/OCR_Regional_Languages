@@ -49,10 +49,10 @@ python manage.py runserver
 * gTTS
 
 ## Team Members
-* Melita Lewis
+* Shaun Noronha
 * Sushree Nadiminty
 * Angelica Sebastian
-* Shaun Noronha
+* Melita Lewis
 
 ## Contributing
 Contributions to the OCR for Regional Languages project are welcome. If you encounter any issues or have ideas for new features, feel free to open an issue or submit a pull request.
